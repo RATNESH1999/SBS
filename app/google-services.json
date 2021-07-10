@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397095957541",
+    "project_id": "sbsnew-fd465",
+    "storage_bucket": "sbsnew-fd465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397095957541:android:82609b34cafd62cad0bbcc",
+        "android_client_info": {
+          "package_name": "com.example.sbsnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397095957541-26mpk7emfg00f8hjbbulf7uk8udu60hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkiHBNN2UCz9TuHzo30AX6SARtsOOvnak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397095957541-26mpk7emfg00f8hjbbulf7uk8udu60hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
